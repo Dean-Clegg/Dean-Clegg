@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Dean-Clegg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey, I'm Dean 👋
 
-<!---
-Dean-Clegg/Dean-Clegg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer with a passion for understanding how things work — from silicon to software.
+
+## 🧠 What I'm Into
+
+- **Complex problem solving** — I enjoy breaking down hard problems and building elegant solutions
+- **Hardware + Software** — Fascinated by the intersection where code meets circuits
+- **Gaming** — Both playing and understanding the tech behind the experiences
+
+## 🌱 Currently Learning
+
+- **AI / Machine Learning** — Building intelligent systems and exploring agentic workflows
+- **AWS AgentCore** — Diving deep into cloud-native AI agent infrastructure
+
+## 🔨 What I'm Working On
+
+- Building [Nexos](https://github.com/Dean-Clegg) — an AI-powered integration platform
+- 
+- Building [VoltaWeb3](https://github.com/Dean-Clegg) — an AI-powered integration platform
+- Exploring agentic AI patterns and cloud architecture
+
+## 🤝 Open to Collaborate On
+
+- AI/ML projects, especially agentic systems
+- Developer tools and automation
+- Anything that sits at the hardware/software boundary
+
+## 📫 Get In Touch
+
+- **Email:** deanclegg11@gmail.com
+- **GitHub:** [@Dean-Clegg](https://github.com/Dean-Clegg)
+
+---
+
+*"The best way to understand something is to build it."*
