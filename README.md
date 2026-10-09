@@ -15,8 +15,6 @@ Full-stack developer with a passion for understanding how things work — from s
 
 ## 🔨 What I'm Working On
 
-- Building [Nexos](https://github.com/Dean-Clegg) — an AI-powered integration platform
-- Building [VoltaWeb3](https://github.com/Dean-Clegg) — an AI-powered integration platform
 - Exploring agentic AI patterns and cloud architecture
 
 ## 🤝 Open to Collaborate On
